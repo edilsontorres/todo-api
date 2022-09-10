@@ -1,1 +1,1 @@
-CRUD feito em aula para fins de estuos
+CRUD feito em aula para fins de estudos
