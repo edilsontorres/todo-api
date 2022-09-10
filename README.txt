@@ -1,1 +1,1 @@
-Projeto de um CRUD para frases, feito em aula.
+CRUD feito em aula para fins de estuos
